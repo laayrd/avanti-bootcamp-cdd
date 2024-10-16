@@ -1,11 +1,12 @@
 [tool.poetry]
-name = "src"
+name = "avanti-bootecamp-cdd"
 version = "0.1.0"
 description = ""
-authors = ["Madson Dias <madsonddias@gmail.com>"]
+authors = ["Layssa Rodrigues <layssa21.alves@gmail.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "~3.10"
+python = "^3.12"
 numpy = "^1.22.3"
 pandas = "^1.4.2"
 matplotlib = "^3.5.1"
