@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo a análise dos preços de diamantes com base em diversos atributos, como peso, qualidade do corte, cor e clareza. O conjunto de dados utilizado contém informações de mais de 50.000 diamantes de corte redondo, permitindo uma análise aprofundada sobre como esses atributos influenciam o preço dos diamantes. O projeto busca entender os fatores que impactam o valor de mercado dos diamantes, podendo ser utilizado para precificação, previsão de preços ou até mesmo para fins de estudo de mercado.
 
+![alt text](<WhatsApp Image 2024-11-02 at 21.21.23.jpeg>)
+
 ## Justificativa
 A análise dos preços de diamantes é relevante tanto para consumidores quanto para comerciantes da indústria de joias. Compreender os fatores que afetam o preço pode ajudar na escolha de diamantes e na estratégia de vendas, especialmente em um mercado onde a demanda e a qualidade dos produtos são cruciais.
 
