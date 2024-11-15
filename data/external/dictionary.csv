@@ -5,7 +5,7 @@ color,"Cor de diamante, de D (melhor) a J (pior)",qualitativa,ordinal
 clarity,"Clareza do diamante (I1 (pior), SI2 SI1, VS2, VS1, VVS2, VVS1, IF (melhor)).",qualitativa,ordinal
 depth,"Percentagem total de profundidade = z /média(x, y) = 2 * z / (x + y) (43--79).",quantitativa,contínua
 table,Largura do topo do diamante em relação ao ponto mais largo (43--95).,quantitativa,contínua
-price,"Preço em dólares dos EUA ($326-$18,823).",quantitativa,discreta
+price,"Preço em dólares dos EUA ($326-$18,823).",quantitativa,contínua
 x,Comprimento em mm (0-10.74).,quantitativa,contínua
 y,Largura em mm (0-58.9).,quantitativa,contínua
 z,"Profundidade em mm (0-31,8).",quantitativa,contínua
