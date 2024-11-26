@@ -10,10 +10,9 @@ A análise dos preços de diamantes é relevante tanto para consumidores quanto 
 Neste projeto, vamos abordar as questões como:
 - Quais fatores mais influenciam o preço dos diamantes?
 - Como podemos usar esses fatores para prever com precisão o preço de novos diamantes?
-- Existe uma tendência observável na variação de preços ao longo do tempo?
 
 ## Metodologia
-O projeto será desenvolvido utilizando a metodologia CRIS-DM, seguindo os seguintes passos:
+O projeto será desenvolvido utilizando a metodologia CRISP-DM, seguindo os seguintes passos:
 1. Entendimento do negócio
 2. Entendimento dos dados
 3. Preparação dos dados
